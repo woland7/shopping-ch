@@ -1,0 +1,7 @@
+shops:
+  migros:
+    - discounts: 'https://prodotti.migros.ch/offerte/azione'
+    - novelties: 'https://prodotti.migros.ch/offerte/novita'
+    - search: 'https://prodotti.migros.ch/assortimento?q='
+  coop: []
+  denner: []
